@@ -1,0 +1,22 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.CleanEating" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#A8D5BA</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">#FFA07A</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Background & Surface -->
+        <item name="background">#FAFAF8</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnBackground">#4E4E4E</item>
+        <item name="colorOnSurface">#4E4E4E</item>
+
+        <!-- Others -->
+        <item name="colorOutline">#E0E0E0</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#A8D5BA</item>
+    </style>
+</resources>
