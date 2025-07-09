@@ -1,22 +1,22 @@
 <!-- res/values/themes.xml -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.CleanEating" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.TrayBotApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color -->
-        <item name="colorPrimary">#A8D5BA</item>
+        <item name="colorPrimary">#5E8D71</item>
         <item name="colorOnPrimary">#FFFFFF</item>
 
         <!-- Secondary -->
-        <item name="colorSecondary">#FFA07A</item>
-        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSecondary">#FAC7B3</item>
+        <item name="colorOnSecondary">#F37847</item>
 
         <!-- Background & Surface -->
-        <item name="background">#FAFAF8</item>
+        <item name="colorBackground">#FAFAF8</item>
         <item name="colorSurface">#FFFFFF</item>
-        <item name="colorOnBackground">#4E4E4E</item>
-        <item name="colorOnSurface">#4E4E4E</item>
+        <item name="colorOnBackground">#868585</item>
+        <item name="colorOnSurface">#868585</item>
 
         <!-- Others -->
         <item name="colorOutline">#E0E0E0</item>
-        <item name="android:statusBarColor" tools:targetApi="l">#A8D5BA</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#679B7C</item>
     </style>
 </resources>

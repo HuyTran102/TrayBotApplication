@@ -1,16 +1,16 @@
 <!-- res/values-night/themes.xml -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.CleanEating" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Theme.TrayBotApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color -->
         <item name="colorPrimary">#88B89C</item>
         <item name="colorOnPrimary">#121212</item>
 
         <!-- Secondary -->
-        <item name="colorSecondary">#FF8C66</item>
-        <item name="colorOnSecondary">#121212</item>
+        <item name="colorSecondary">#FAB29B</item>
+        <item name="colorOnSecondary">#F46830</item>
 
         <!-- Background & Surface -->
-        <item name="background">#121212</item>
+        <item name="colorBackground">#121212</item>
         <item name="colorSurface">#1E1E1E</item>
         <item name="colorOnBackground">#EAEAEA</item>
         <item name="colorOnSurface">#EAEAEA</item>

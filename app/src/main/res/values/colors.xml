@@ -2,11 +2,20 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF808080</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="dark_gray">#4E4E4A</color>
+    <color name="colorAccent">#57DA07</color>
+    <color name="orange">#FFA07A</color>
+    <color name="text_orange">#F37847</color>
+
+
+
     <color name="md_theme_light_primary">#A8D5BA</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
 
     <color name="md_theme_light_secondary">#FFA07A</color>
-    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondary">#F37847</color>
 
     <color name="md_theme_light_background">#FAFAF8</color>
     <color name="md_theme_light_onBackground">#4E4E4E</color>
@@ -20,7 +29,7 @@
     <color name="md_theme_dark_onPrimary">#121212</color>
 
     <color name="md_theme_dark_secondary">#FF8C66</color>
-    <color name="md_theme_dark_onSecondary">#121212</color>
+    <color name="md_theme_dark_onSecondary">#F37847</color>
 
     <color name="md_theme_dark_background">#121212</color>
     <color name="md_theme_dark_onBackground">#EAEAEA</color>
@@ -29,4 +38,5 @@
     <color name="md_theme_dark_onSurface">#EAEAEA</color>
 
     <color name="md_theme_dark_outline">#303030</color>
+
 </resources>
