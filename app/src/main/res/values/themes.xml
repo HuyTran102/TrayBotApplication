@@ -2,8 +2,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Theme.TrayBotApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Primary brand color -->
-        <item name="colorPrimary">#5E8D71</item>
-        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimary">#3B6C55</item>
+        <item name="colorOnPrimary">#539779</item>
 
         <!-- Secondary -->
         <item name="colorSecondary">#FAC7B3</item>
@@ -17,6 +17,6 @@
 
         <!-- Others -->
         <item name="colorOutline">#E0E0E0</item>
-        <item name="android:statusBarColor" tools:targetApi="l">#679B7C</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#6E997F</item>
     </style>
 </resources>

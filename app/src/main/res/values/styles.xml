@@ -96,7 +96,7 @@
 
     <style name="loginButton" parent="viewParent">
         <item name="android:background">@drawable/login_background</item>
-        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="android:textColor">?attr/colorSurface</item>
         <item name="android:radius">30dp</item>
         <item name="android:textStyle">bold</item>
     </style>
