@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207335350251",
+    "project_id": "traybotdatabas",
+    "storage_bucket": "traybotdatabas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207335350251:android:50f98c54372ada10b5c3ae",
+        "android_client_info": {
+          "package_name": "com.huytran.traybotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsvHG5e575eKnDAeV6X_uyWpCJppMnfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

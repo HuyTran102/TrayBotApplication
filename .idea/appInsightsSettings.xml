@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.huytran.traybotapp" />
+                  <option name="mobileSdkAppId" value="1:207335350251:android:50f98c54372ada10b5c3ae" />
+                  <option name="projectId" value="traybotdatabas" />
+                  <option name="projectNumber" value="207335350251" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
